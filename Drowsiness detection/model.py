@@ -1,4 +1,4 @@
-import os
+HI HLOimport os
 from keras.preprocessing import image
 import matplotlib.pyplot as plt 
 import numpy as np
